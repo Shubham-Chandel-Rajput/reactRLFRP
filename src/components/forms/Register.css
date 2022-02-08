@@ -1,0 +1,11 @@
+.heading{
+    text-align: center;
+}
+.registerForm{
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.formInput{
+    width: 200px;
+    margin-bottom: 10px;
+}

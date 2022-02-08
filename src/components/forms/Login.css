@@ -1,0 +1,18 @@
+.loginForm{
+    margin-left:45%;
+    margin-top: 40px;
+}
+.loginForm .inputField{
+    margin-bottom: 10px;
+}
+.loginForm .inputField .fromInput{
+    width: 200px;
+}
+.heading{
+    text-align: center;
+    margin-top: 20px;
+}
+.error{
+    color: red;
+    text-align: center;
+}
